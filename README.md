@@ -5,9 +5,9 @@
 
 
 
-🏋️ &nbsp;  I'm currently making something cool!
+🏋️ &nbsp;  I'm currently making something cool and serving with some cool people!
 
-🌱 &nbsp;  I'm currently learning through DevMountains Full Stack Web Developer Course
+🌱 &nbsp;  I'm currently learning Next.Js and the powers behind Server-Side Rendering.
 
 💬 &nbsp;  Chat with me about my github!
 
