@@ -4,8 +4,8 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a hands-on full-stack engineer who loves blending backend systems with clean frontend experiences.  
-Right now I’m exploring how AI can augment developer workflows, speed up problem-solving, and unlock new ways of building software.  
+I’m a hands on my keyboard full-stack engineer who loves blending backend systems with clean frontend experiences.  
+Right now I’m exploring how AI can augment developer workflows, speed up problem solving, and unlock new ways of building software.  
 
 I’ve led engineering teams, shipped production apps in Laravel, React, and Node.js, and built APIs that power fintech and ecommerce platforms. I enjoy solving deep software problems, writing maintainable code, and collaborating with great people.  
 
@@ -13,7 +13,7 @@ I’ve led engineering teams, shipped production apps in Laravel, React, and Nod
 
 ## 🔭 Currently Exploring  
 - Backend APIs with Node.js, Express & GraphQL  
-- Laravel + InertiaJS for scalable full-stack solutions  
+- Laravel + InertiaJS for scalable full stack solutions  
 - TypeORM, PostgreSQL, and MySQL for data modeling  
 - AI tools and workflows that make dev teams faster  
 - Smooth frontend experiences with React + GSAP  
