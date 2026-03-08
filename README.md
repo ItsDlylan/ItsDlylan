@@ -20,11 +20,11 @@ These are all built with [Claude Code](https://docs.anthropic.com/en/docs/claude
 `Rust` `TypeScript` `React` `SQLx` `PostgreSQL`
 Kanban-style task manager purpose-built for orchestrating AI coding agents. Manages parallel agent execution, task decomposition, plan generation, and PR review workflows. Supports Claude Code, Gemini CLI, Codex, and more. Full Rust backend with React frontend.
 
-### [Maison Neptune](https://github.com/ItsDlylan/maisonneptune) — Yacht Charter Platform
+### Maison Neptune — Yacht Charter Platform
 `Laravel 12` `Inertia v2` `TypeScript` `PHP 8.4`
 Full-featured yacht charter booking platform with search, checkout, owner intake portal, admin dashboard, blog, and yacht management (pricing, fees, locations, media, toys). Built on the latest Laravel ecosystem.
 
-### [WickeTCG](https://github.com/ItsDlylan/WickeTCG) — Pokemon TCG Business Platform
+### WickeTCG — Pokemon TCG Business Platform
 `PHP` `JavaScript` `TypeScript` `Python`
 All-in-one inventory, trading, and profit tracking for Pokemon TCG vendors. Tracks cost basis through multi-level trade chains, real-time TCGPlayer pricing, eBay integration, event/card show management with QR code sharing, grading submission tracking, and public storefronts.
 
