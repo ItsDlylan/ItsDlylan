@@ -28,6 +28,17 @@ I’ve led engineering teams, shipped production apps in Laravel, React, and Nod
 
 ---
 
+## 🛠️ Open Source
+
+### [claude-dotfiles](https://github.com/ItsDlylan/claude-dotfiles)
+My personal [Claude Code](https://docs.anthropic.com/en/docs/claude-code) scripts and configuration — version-controlled and ready to clone onto any machine.
+
+Includes a **custom status line** with live usage quota tracking and context window visualization, **tab title management** with configurable ticket detection (Linear, Jira, GitHub Issues), **macOS notification hooks** for idle/permission/done events, and a **LaunchAgent watcher** that nudges you when scripts have uncommitted changes.
+
+One `./install.sh` sets up symlinks so you can edit scripts in `~/.claude/scripts/` and track changes via git. Great starting point if you want to customize your own Claude Code setup.
+
+---
+
 ## 🌐 Find Me  
 - **Portfolio** → [itsdlylan.github.io](https://itsdlylan.github.io/)  
 - **LinkedIn** → [linkedin.com/in/dylanschwindt](https://www.linkedin.com/in/dylanschwindt/)  
