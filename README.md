@@ -28,13 +28,13 @@ Full-featured yacht charter booking platform with search, checkout, owner intake
 `PHP` `JavaScript` `TypeScript` `Python`
 All-in-one inventory, trading, and profit tracking for Pokemon TCG vendors. Tracks cost basis through multi-level trade chains, real-time TCGPlayer pricing, eBay integration, event/card show management with QR code sharing, grading submission tracking, and public storefronts.
 
-### [WhisprMute](https://github.com/ItsDlylan/WhisprMute) — macOS Menu Bar App
-`Swift`
-Auto-mutes your mic in meeting apps when Wispr Flow is recording, then unmutes when done. Native Discord RPC and Chrome DevTools Protocol integration for focus-free muting — no keyboard shortcut juggling.
-
 ---
 
 ## 🛠️ Open Source
+
+### [WhisprMute](https://github.com/ItsDlylan/WhisprMute) — macOS Menu Bar App
+`Swift`
+Auto-mutes your mic in meeting apps when Wispr Flow is recording, then unmutes when done. Native Discord RPC and Chrome DevTools Protocol integration for focus-free muting — no keyboard shortcut juggling.
 
 ### [claude-dotfiles](https://github.com/ItsDlylan/claude-dotfiles)
 My personal [Claude Code](https://docs.anthropic.com/en/docs/claude-code) scripts and configuration — version-controlled and ready to clone onto any machine.
