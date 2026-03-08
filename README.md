@@ -1,30 +1,36 @@
-# Hey, I’m Dylan 👋  
-**AI-Augmented Full-Stack Engineer (Backend-leaning)**  
+# Hey, I'm Dylan 👋
+**AI-Augmented Full-Stack Engineer**
 
 ---
 
-## 👨‍💻 About Me  
-I’m a hands on my keyboard full-stack engineer who loves blending backend systems with clean frontend experiences.  
-Right now I’m exploring how AI can augment developer workflows, speed up problem solving, and unlock new ways of building software.  
+## 👨‍💻 About Me
+I build production software with AI coding agents. Not prompting for snippets — I'm talking full applications architected, built, and shipped using Claude Code as a daily driver.
 
-I’ve led engineering teams, shipped production apps in Laravel, React, and Node.js, and built APIs that power fintech and ecommerce platforms. I enjoy solving deep software problems, writing maintainable code, and collaborating with great people.  
+I've gone from leading engineering teams and shipping Laravel/React/Node apps to fundamentally rethinking how software gets built. Every project below was developed with AI augmentation, and each one pushed my workflow further — faster iteration, higher quality, less busywork.
 
----
-
-## 🔭 Currently Exploring  
-- Backend APIs with Node.js, Express & GraphQL  
-- Laravel + InertiaJS for scalable full stack solutions  
-- TypeORM, PostgreSQL, and MySQL for data modeling  
-- AI tools and workflows that make dev teams faster  
-- Smooth frontend experiences with React + GSAP  
+My stack shifts based on the problem: Rust + TypeScript for performance-critical tools, Laravel + Inertia for rapid full-stack apps, Swift for native macOS. The constant is using AI to move faster without cutting corners.
 
 ---
 
-## 💬 Ask Me About  
-- Designing backend systems and APIs  
-- Clean code and team-wide coding standards  
-- Scaling full-stack apps from MVP → production  
-- How to bring AI into the software development lifecycle  
+## 🚀 AI-Augmented Projects
+
+These are all built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — each one leveled up my workflow.
+
+### [Wickeban](https://github.com/ItsDlylan/wicke-kanban) — AI Agent Orchestration Platform
+`Rust` `TypeScript` `React` `SQLx` `PostgreSQL`
+Kanban-style task manager purpose-built for orchestrating AI coding agents. Manages parallel agent execution, task decomposition, plan generation, and PR review workflows. Supports Claude Code, Gemini CLI, Codex, and more. Full Rust backend with React frontend.
+
+### [Maison Neptune](https://github.com/ItsDlylan/maisonneptune) — Yacht Charter Platform
+`Laravel 12` `Inertia v2` `TypeScript` `PHP 8.4`
+Full-featured yacht charter booking platform with search, checkout, owner intake portal, admin dashboard, blog, and yacht management (pricing, fees, locations, media, toys). Built on the latest Laravel ecosystem.
+
+### [WickeTCG](https://github.com/ItsDlylan/WickeTCG) — Pokemon TCG Business Platform
+`PHP` `JavaScript` `TypeScript` `Python`
+All-in-one inventory, trading, and profit tracking for Pokemon TCG vendors. Tracks cost basis through multi-level trade chains, real-time TCGPlayer pricing, eBay integration, event/card show management with QR code sharing, grading submission tracking, and public storefronts.
+
+### [WhisprMute](https://github.com/ItsDlylan/WhisprMute) — macOS Menu Bar App
+`Swift`
+Auto-mutes your mic in meeting apps when Wispr Flow is recording, then unmutes when done. Native Discord RPC and Chrome DevTools Protocol integration for focus-free muting — no keyboard shortcut juggling.
 
 ---
 
@@ -39,10 +45,19 @@ One `./install.sh` sets up symlinks so you can edit scripts in `~/.claude/script
 
 ---
 
-## 🌐 Find Me  
-- **Portfolio** → [itsdlylan.github.io](https://itsdlylan.github.io/)  
-- **LinkedIn** → [linkedin.com/in/dylanschwindt](https://www.linkedin.com/in/dylanschwindt/)  
+## 💬 Ask Me About
+- Building full applications with AI coding agents
+- Orchestrating parallel AI agent workflows
+- Rust + TypeScript for backend systems
+- Laravel + Inertia for rapid full-stack development
+- Going from idea → shipped product faster with Claude Code
 
 ---
 
-> “Code should empower people — and the developers who write it.”  
+## 🌐 Find Me
+- **Portfolio** → [itsdlylan.github.io](https://itsdlylan.github.io/)
+- **LinkedIn** → [linkedin.com/in/dylanschwindt](https://www.linkedin.com/in/dylanschwindt/)
+
+---
+
+> "Code should empower people — and the developers who write it."
