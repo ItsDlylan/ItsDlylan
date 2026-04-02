@@ -43,6 +43,19 @@ Includes a **custom status line** with live usage quota tracking and context win
 
 One `./install.sh` sets up symlinks so you can edit scripts in `~/.claude/scripts/` and track changes via git. Great starting point if you want to customize your own Claude Code setup.
 
+### [Vegas-Agentic-Skills](https://github.com/ItsDlylan/Vegas-Agentic-Skills) — Claude Code Custom Skills
+A collection of reusable [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code) (slash commands) that extend agent capabilities. Symlinked to `~/.claude/skills/` for global availability across all projects.
+
+| Skill | What it does |
+|-------|-------------|
+| **ship** | Full shipping workflow — merges feature branches to develop, generates changelogs, creates release PRs to main |
+| **tier2** | Spins up isolated git worktree environments with their own PostgreSQL database and Herd site |
+| **safety-net-brainstorm** | Spawns 5 parallel agents to brainstorm test cases after a bug fix, covering edge cases, state transitions, auth/security, integration, and failure modes |
+| **agent-browser** | Browser automation with session isolation for parallel agent work — snapshot, click, fill, screenshot |
+| **grill-me** | Stress-tests a plan or design by interviewing you relentlessly until every branch of the decision tree is resolved |
+| **name-tab** | Auto-renames terminal tabs with `#project #branch #task` context |
+| **remotion-best-practices** | Comprehensive rules for Remotion video creation in React |
+
 ---
 
 ## 💬 Ask Me About
