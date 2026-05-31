@@ -16,6 +16,10 @@ My stack shifts based on the problem: Rust + TypeScript for performance-critical
 
 These are all built with [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — each one leveled up my workflow.
 
+### [AgentCanvas](https://github.com/ItsDlylan/AgentCanvas) — Infinite Canvas for AI Agent Orchestration
+`Electron` `React` `React Flow` `xterm.js` `TypeScript`
+A spatial desktop workspace for working with AI coding agents. Spawn terminal, browser, note, PDF, and task tiles on a single infinite, zoomable canvas — then let agents orchestrate *each other* across them: spinning up worker terminals, driving live browser tiles via CDP, generating PDF reports, and tracking work as first-class task tiles with a derived lifecycle (raw → researched → planned → executing → review → done). An entire HTTP API lets an agent in one tile spawn and wire up the rest.
+
 ### [Wickeban](https://github.com/ItsDlylan/wicke-kanban) — AI Agent Orchestration Platform
 `Rust` `TypeScript` `React` `SQLx` `PostgreSQL`
 Kanban-style task manager purpose-built for orchestrating AI coding agents. Manages parallel agent execution, task decomposition, plan generation, and PR review workflows. Supports Claude Code, Gemini CLI, Codex, and more. Full Rust backend with React frontend.
